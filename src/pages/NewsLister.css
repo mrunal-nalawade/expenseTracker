@@ -1,0 +1,33 @@
+.listTitle{
+    margin: auto;
+    width: max-content;
+}
+
+.titleDiv{
+    padding: 1em;
+}
+
+.navB{
+    height: 3em;
+    width:5em;
+    background-color: crimson;
+    color: aliceblue;
+    border: none;
+    border-radius: 1em;
+}
+
+.buttonDiv{
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    padding: 2em;
+}
+
+.nores{
+    margin: auto;
+    width: max-content;
+    color: red;
+    font-size: larger;
+    font-family: Arial, sans-serif;
+}
