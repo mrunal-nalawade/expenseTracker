@@ -1,0 +1,21 @@
+.totalExpenseContainer{
+    height: 40px;
+    line-height: 40px;
+    border: 1px solid rgb(10, 10, 99);
+    border-radius: 10px;
+    background-color: rgb(86, 98, 164);
+    display: flex;
+    padding: 3px;
+    justify-content:space-around;
+    color: aliceblue;
+    font-size: large;
+    font-family: ui-sans-serif;
+}
+
+.bottomLine{
+    width: 100%;
+    border-top: 5px solid rgb(10, 10, 99);
+    height: max-content;
+    padding: 5px;
+    margin: 5px;
+}

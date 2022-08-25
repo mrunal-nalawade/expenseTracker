@@ -1,0 +1,20 @@
+.expenseDataContainer{
+    width: 100%;
+    height: 150px;
+    border: 2px solid rgb(10, 10, 99);
+    border-radius: 10px;
+    background-color: rgb(86, 98, 164);
+    display: flex;
+    padding: 3px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    justify-content:space-around;
+}
+
+@media screen and (max-width: 900px) {
+
+    .expenseDataContainer {
+        display: none;
+    }
+
+}
